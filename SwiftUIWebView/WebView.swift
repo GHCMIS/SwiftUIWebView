@@ -63,7 +63,7 @@ struct WebView: UIViewRepresentable, WebViewHandlerDelegate {
             }
         } else if url == .publicUrl {
             // Load a public website, for example I used here google.com
-            if let url = URL(string: "https://www.google.com") {
+            if let url = URL(string: "https://keystyle.ghcci.com/account/login?returnurl=%2f") {
                 webView.load(URLRequest(url: url))
             }
         }
