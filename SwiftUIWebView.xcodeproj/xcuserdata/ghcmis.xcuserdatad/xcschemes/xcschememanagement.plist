@@ -6,8 +6,28 @@
 	<dict>
 		<key>SwiftUIWebView.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6E429F6524528DD400A5678D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6E429F7B24528DD700A5678D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6E429F8624528DD700A5678D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
